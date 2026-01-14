@@ -1,0 +1,2 @@
+# Production-Grade-Email-Intelligence-Spam-Classification-Service
+This project implements a production-grade Email Spam Classification service using classical machine learning models and a cloud-native deployment workflow.  The system is designed to classify incoming email text as SPAM or NOT SPAM, with precision-focused model selection to minimize false positives — for business email filtering systems.
